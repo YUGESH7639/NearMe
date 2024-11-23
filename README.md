@@ -1,5 +1,5 @@
 # Ex04 Places Around Me
-## Date: 23-11-2024
+## Date: 24-11-2024
 
 ## AIM
 To develop a website to display details about the places around my house.
@@ -41,7 +41,7 @@ imagemap.html
         <br>
         <br>
 <center>
-    <img src="MAP 1.png" usemap="#image-map">
+    <img src="1.png" usemap="#image-map">
 
     <map name="image-map">
         <area target="" alt="HOLY CROSS MATRIC HR SEC SCHOOL" title="HOLY CROSS MATRIC HR SEC SCHOOL" href="school.html" coords="100,22,239,72" shape="rect">
@@ -71,7 +71,7 @@ school.html
     <hr>
     <h3>
         <center> 
-        <img src="MAP6.png" height="388" width="822" >
+        <img src="school.png" height="388" width="822" >
         </center>
         <br>
         <hr>
@@ -100,6 +100,7 @@ school.html
 
 </html>
 
+
 temple.html
 
 <html>
@@ -117,7 +118,7 @@ temple.html
     <hr>
     <h3>
         <center> 
-        <img src="MAP4.png" height="388" width="822" >
+        <img src="temple.png" height="388" width="822" >
         </center>
         <br>
         <hr>
@@ -148,6 +149,7 @@ temple.html
 
 </html>
 
+
 hall.html
 
 <html>
@@ -165,7 +167,7 @@ hall.html
     <hr>
     <h3>
         <center> 
-        <img src="MAP3.png" height="388" width="822" >
+        <img src="mall.png" height="388" width="822" >
         </center>
         <br>
         <hr>
@@ -215,7 +217,7 @@ cinema.html
     <hr>
     <h3>
         <center> 
-        <img src="MAP5.png" height="388" width="822" >
+        <img src="cinema.png" height="388" width="822" >
         </center>
         <br>
         <hr>
@@ -244,6 +246,7 @@ cinema.html
 
 </html>
 
+
 bank.html
 
 <html>
@@ -261,7 +264,7 @@ bank.html
     <hr>
     <h3>
         <center> 
-        <img src=MAP2.png" height="388" width="822" >
+        <img src="bank.png" height="388" width="822" >
         </center>
         <br>
         <hr>
@@ -295,16 +298,12 @@ bank.html
 ```
 
 ## OUTPUT
-![alt text](<MAP 1-2.png>)
-![alt text](MAP6.png)
-![alt text](MAP4.png)
-![alt text](MAP3.png)
-![alt text](MAP5.png)
-![alt text](MAP2.png)
 
-
-
-
-
+![alt text](1.png)
+![alt text](6.png)
+![alt text](2.png)
+![alt text](4.png)
+![alt text](3.png)
+![alt text](5.png)
 ## RESULT
 The program for implementing image maps using HTML is executed successfully.
